@@ -1,0 +1,5 @@
+If facing 
+    Unable to run mksdcard SDK tool
+    
+  This error on your android studio intallation just add these packages to your ubuntu
+  sudo apt-get install lib32z1 lib32ncurses5 lib32stdc++6
