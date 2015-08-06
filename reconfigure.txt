@@ -1,4 +1,5 @@
-To re-configure you have to delete the following (hidden) folders:
+How to re-configure android studio in Ubuntu? 
+you have to delete the following (hidden) folders:
 
   ~/.android
   ~/.AndroidStudio
